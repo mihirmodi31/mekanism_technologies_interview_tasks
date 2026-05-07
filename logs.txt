@@ -1,0 +1,5 @@
+INFO 2024-01-01 User login success user_id 101
+ERROR 2024-01-01 Payment failed user_id 102
+INFO 2024-01-02 User login success user_id 103
+ERROR 2024-01-02 Timeout error user_id 101
+ERROR 2024-01-03 Payment failed user_id 101
